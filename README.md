@@ -1,5 +1,7 @@
 # Git Contribution Extractor
 
+![img.png](img.png)
+
 ## Description
 
 Ever looked at your GitHub contributions graph and wished it was greener, fuller, and just more impressive? 🌳 Maybe you want to show off a year's worth of solid work or perhaps visualize it in 3D like this [awesome example](https://github.com/yoshi389111/github-profile-3d-contrib). But, oh no! Most of your contributions are tied up in private company projects you can't share. What to do?
