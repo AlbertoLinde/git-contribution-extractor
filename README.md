@@ -1,6 +1,6 @@
 # Git Contribution Extractor
 
-![img.png](img.png)
+![ImageCode](https://i.imgur.com/ogEGVm2.png)
 
 ## Description
 
