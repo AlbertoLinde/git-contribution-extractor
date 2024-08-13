@@ -1,6 +1,6 @@
 {
   "name": "git-contribution",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tool to extract contributions from a Git project for a specific author.",
   "main": "lib/extractCommits.js",
   "bin": {
@@ -34,9 +34,9 @@
   "homepage": "https://www.albertolinde.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlbertoLinde/git-contribution.git"
+    "url": "https://github.com/AlbertoLinde/git-contribution-extractor"
   },
   "bugs": {
-    "url": "https://github.com/AlbertoLinde/git-contribution/issues"
+    "url": "https://github.com/AlbertoLinde/git-contribution-extractor/issues"
   }
 }

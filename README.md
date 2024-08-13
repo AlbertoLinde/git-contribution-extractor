@@ -61,8 +61,8 @@ Created by [Alberto Linde](https://www.albertolinde.com)
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Repository
-- [GitHub Repository]()
+- [GitHub Repository](https://github.com/AlbertoLinde/git-contribution-extractor)
 
 ## Bugs and Issues
-If you encounter any bugs or issues, please open an issue in the [GitHub Issues page]().
+If you encounter any bugs or issues, please open an issue in the [GitHub Issues page](https://github.com/AlbertoLinde/git-contribution-extractor/issues).
 
